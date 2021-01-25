@@ -1,0 +1,8 @@
+
+
+------------------ (single)result ---------------------
+
+mode: warm, loop_times: 10, warmup_times: 1
+Latency (ms):
+Avg	50%	75%	90%	95%	99%	
+3812	4126	4445	4583	4583	4583	

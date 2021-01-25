@@ -1,0 +1,8 @@
+
+
+------------------ (single)result ---------------------
+
+mode: cold, loop_times: 10, warmup_times: 1
+Latency (ms):
+Avg	50%	75%	90%	95%	99%	
+3178	2237	3575	3678	3678	3678	

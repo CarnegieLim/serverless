@@ -1,0 +1,16 @@
+
+
+------------------ (single)result ---------------------
+
+mode: cold, loop_times: 3, warmup_times: 
+Latency (ms):
+Avg	50%	75%	90%	95%	99%	
+60039	60037	60037	60037	60037	60037	
+
+
+------------------ (single)result ---------------------
+
+mode: warm, loop_times: 10, warmup_times: 1
+Latency (ms):
+Avg	50%	75%	90%	95%	99%	
+1222	77	84	92	92	92	

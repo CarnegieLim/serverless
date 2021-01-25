@@ -1,0 +1,26 @@
+
+
+------------------ (single)result ---------------------
+
+mode: cold, loop_times: 3, warmup_times: 
+Latency (ms):
+Avg	50%	75%	90%	95%	99%	
+1574	1542	1584	1584	1584	1584	
+
+
+------------------ (single)result ---------------------
+
+mode: warm, loop_times: 10, warmup_times: 1
+Latency (ms):
+Avg	50%	75%	90%	95%	99%	
+30	29	30	32	32	32	
+
+
+------------------ (concurrent)result ---------------------
+client: 3, loop_times: 3, warmup_times: 3
+9 requests finished in 0.53 seconds
+latency (ms):
+avg	50%	75%	90%	95%	99%
+93.89	67	107	164	164	164
+throughput (n/s):
+16.85
